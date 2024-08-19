@@ -1,1 +1,1 @@
-![Header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9qaDRrenhteDJxejBkZDRnN29kbHhncW84azB3MHNzbDFidGc1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YGIpIZjgxL68w/giphy.webp)
+![Header](https://steamuserimages-a.akamaihd.net/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
