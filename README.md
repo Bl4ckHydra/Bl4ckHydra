@@ -1,80 +1,73 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        @keyframes hi  {
-            0% { transform: rotate( 0.0deg) }
-           10% { transform: rotate(14.0deg) }
-           20% { transform: rotate(-8.0deg) }
-           30% { transform: rotate(14.0deg) }
-           40% { transform: rotate(-4.0deg) }
-           50% { transform: rotate(10.0deg) }
-           60% { transform: rotate( 0.0deg) }
-          100% { transform: rotate( 0.0deg) }
-        }
-
-        @keyframes gradient {
-          0% {
-            background-position: 0% 50%;
-          }
-          50% {
-            background-position: 100% 50%;
-          }
-          100% {
-            background-position: 0% 50%;
-          }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Black Hydra</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #0e0e0e;
+            color: #f4f4f4;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
         }
 
         .container {
-          --color-main: #5452ee;
-          --color-primary: #e73c7e;
-          --color-secondary: #23a6d5;
-          --color-tertiary: #ffff;
-
-          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
-          background-size: 400% 400%;
-          animation: gradient 15s ease infinite;
-
-          width: 100%;
-          height: 300px;
-
-          display: flex;
-          justify-content: center;
-          align-items: center;
-          color: white;
-
-          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #1e1e1e;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
         }
 
-        .hi {
-          animation: hi 1.5s linear -0.5s infinite;
-          display: inline-block;
-          transform-origin: 70% 70%;
+        h1 {
+            font-size: 36px;
+            color: #00ff6a;
+            text-align: center;
+            text-shadow: 2px 2px 5px rgba(0, 255, 106, 0.6);
         }
 
-        @media (prefers-color-scheme: light) {
-          .container {
-            --color-main: #F15BB5;
-            --color-primary: #24b0ef;
-            --color-secondary: #4526f6;
-            --color-tertiary: #f6f645;
-          }
+        p {
+            font-size: 18px;
+            margin-bottom: 20px;
+            text-align: justify;
         }
 
-        @media (prefers-reduced-motion) {
-          .container {
-            animation: none;
-          }
-
-          .hi {
-            animation: none;
-          }
+        .highlight {
+            color: #00ff6a;
+            font-weight: bold;
         }
-      </style>
 
-      <div class="container">
-        <h1>Hi there, my name is amir <div class="hi">👋</div></h1>
-      </div>
+        .skills {
+            margin-top: 20px;
+        }
+
+        .skills span {
+            background: #00ff6a;
+            color: #0e0e0e;
+            padding: 5px 10px;
+            margin: 5px;
+            display: inline-block;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Black Hydra</h1>
+        <p>Hello! I'm <span class="highlight">Amir</span>, also known as <span class="highlight">Black Hydra</span>. Since childhood, I've been passionate about electronics and have been tinkering with electronic components since I was 5. For several years, I've been working professionally in this field, tackling various projects in reverse engineering, designing industrial and electronic boards, and creating hacking and security gadgets.</p>
+
+        <p>My experience and expertise include working with languages like <span class="highlight">C, C++, MicroPython, Arduino, Ducky Script,</span> and <span class="highlight">Pine Script</span>. I'm also deeply interested in fields like <span class="highlight">Robotics, IT, IoT,</span> and <span class="highlight">AI</span> (currently learning machine learning) and I'm constantly striving to learn and grow in these areas.</p>
+
+        <p>Additionally, <span class="highlight">PCB design</span>, hardware and software repair of mobile phones, laptops, and gadgets are among my skills. I'm also focused on security and networking, currently studying courses like <span class="highlight">CS50</span>. I'm always seeking new challenges and projects and hope to inspire others with my work!</p>
+
+        <div class="skills">
+            <h3>Skills:</h3>
+            <span>C</span><span>C++</span><span>MicroPython</span><span>Arduino</span><span>Ducky Script</span><span>Pine Script</span><span>Robotics</span><span>IT</span><span>IoT</span><span>AI</span><span>PCB Design</span><span>Security</span><span>Networking</span>
+        </div>
     </div>
-  </foreignObject>
-</svgg
+</body>
+</html>
