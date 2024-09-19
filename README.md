@@ -4,108 +4,92 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Black Hydra - Portfolio</title>
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Orbitron', sans-serif;
-            background-color: #0d0d0d;
-            background-image: radial-gradient(circle at top left, #2e2e2e, #0d0d0d);
-            color: #f5f5f5;
             margin: 0;
             padding: 0;
+            background: #0f0f0f;
+            color: #ffffff;
+            font-family: 'JetBrains Mono', monospace;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
             overflow: hidden;
         }
-
         .container {
             max-width: 800px;
-            background: #1a1a1a;
             padding: 40px;
+            background: linear-gradient(145deg, #1b1b1b, #2c2c2c);
             border-radius: 15px;
-            box-shadow: 0 0 25px rgba(0, 255, 106, 0.8), 0 0 50px rgba(0, 255, 106, 0.5);
+            box-shadow: 10px 10px 30px #0a0a0a, -10px -10px 30px #383838;
             text-align: center;
         }
-
         h1 {
-            font-size: 60px;
-            color: #00ff6a;
-            text-shadow: 0 0 20px rgba(0, 255, 106, 1), 0 0 40px rgba(0, 255, 106, 0.8);
-            letter-spacing: 3px;
-            animation: glow 1.5s ease-in-out infinite alternate;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 50px;
+            color: #00ffb0;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+            margin-bottom: 20px;
+            text-shadow: 0 0 10px #00ffb0;
         }
-
-        @keyframes glow {
-            from {
-                text-shadow: 0 0 10px #00ff6a, 0 0 20px #00ff6a, 0 0 30px #00ff6a;
-            }
-            to {
-                text-shadow: 0 0 20px #00ff6a, 0 0 40px #00ff6a, 0 0 60px #00ff6a;
-            }
-        }
-
         p {
-            font-family: 'Roboto Mono', monospace;
             font-size: 18px;
             line-height: 1.8;
-            margin-bottom: 20px;
+            margin-bottom: 25px;
             text-align: justify;
+            padding: 15px;
             background-color: rgba(255, 255, 255, 0.05);
-            padding: 20px;
             border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 255, 106, 0.1);
+            box-shadow: 0 0 20px rgba(0, 255, 176, 0.2);
         }
-
         .highlight {
-            color: #00ff6a;
+            color: #00ffb0;
             font-weight: bold;
-            text-shadow: 0 0 5px rgba(0, 255, 106, 0.7);
         }
-
         .skills {
             margin-top: 30px;
         }
-
         .skills h3 {
-            font-size: 28px;
-            color: #00ff6a;
+            font-size: 24px;
+            color: #00ffb0;
             text-transform: uppercase;
-            margin-bottom: 20px;
-            text-shadow: 0 0 10px rgba(0, 255, 106, 1);
+            letter-spacing: 3px;
+            margin-bottom: 15px;
         }
-
         .skills span {
-            background: rgba(0, 255, 106, 0.3);
-            color: #0d0d0d;
-            padding: 10px 15px;
-            margin: 5px;
             display: inline-block;
-            border-radius: 5px;
+            margin: 5px;
+            padding: 10px 20px;
+            background-color: #00ffb0;
+            color: #0f0f0f;
             font-weight: bold;
-            font-size: 14px;
-            transition: all 0.3s ease;
-            box-shadow: 0 0 15px rgba(0, 255, 106, 0.4);
+            border-radius: 5px;
+            text-shadow: none;
+            transition: 0.3s ease;
+            box-shadow: 0 0 15px rgba(0, 255, 176, 0.5);
         }
-
         .skills span:hover {
-            background-color: #00ff6a;
-            color: #0d0d0d;
-            box-shadow: 0 0 20px rgba(0, 255, 106, 0.8);
-            transform: scale(1.1);
+            background-color: #00d4a0;
+            transform: translateY(-5px);
+            box-shadow: 0 0 25px rgba(0, 255, 176, 0.7);
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Black Hydra</h1>
-        <p>Hello! I'm <span class="highlight">Amir</span>, also known as <span class="highlight">Black Hydra</span>. From a young age, I have been passionate about electronics, starting to work with electronic components at the age of 5. I have been working professionally in this field for several years, engaging in projects such as reverse engineering, designing industrial and electronic boards, and creating hacking and security gadgets.</p>
-
-        <p>My expertise spans across languages like <span class="highlight">C, C++, MicroPython, Arduino, Ducky Script</span>, and <span class="highlight">Pine Script</span>. I am also deeply interested in fields such as <span class="highlight">Robotics, IT, IoT</span>, and <span class="highlight">AI</span> (currently focusing on machine learning). I am continually learning and evolving in these areas to stay on the cutting edge.</p>
-
-        <p>Additionally, I specialize in <span class="highlight">PCB design</span> and hardware and software repairs for mobile devices, laptops, and other gadgets. I am also focused on <span class="highlight">security and networking</span>, and currently pursuing courses like <span class="highlight">CS50</span>. I am always seeking new challenges and projects, hoping to inspire others through my work!</p>
-
+        <p>
+            Hello! I'm <span class="highlight">Amir</span>, also known as <span class="highlight">Black Hydra</span>. Since childhood, I have been passionate about electronics, starting with electronic components when I was just 5 years old. For several years now, I've been professionally involved in this field, working on various projects like reverse engineering, designing industrial and electronic boards, and creating hacking and security gadgets.
+        </p>
+        <p>
+            My expertise includes working with programming languages such as <span class="highlight">C, C++, MicroPython, Arduino, Ducky Script</span>, and <span class="highlight">Pine Script</span>. I have a strong interest in fields like <span class="highlight">Robotics, IT, IoT</span>, and <span class="highlight">AI</span>, and I am continuously learning and evolving, especially in machine learning.
+        </p>
+        <p>
+            Additionally, I specialize in <span class="highlight">PCB design</span> and hardware/software repairs for mobile devices, laptops, and other gadgets. I'm also focused on <span class="highlight">security and networking</span>, currently studying courses like <span class="highlight">CS50</span>. I'm always looking for new challenges and projects, hoping to inspire others through my work.
+        </p>
         <div class="skills">
             <h3>Skills</h3>
             <span>C</span>
