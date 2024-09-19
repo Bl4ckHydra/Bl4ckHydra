@@ -1,37 +1,33 @@
-# Black Hydra
+# <span style="color: #00ffb0; font-family: 'Rajdhani', sans-serif; text-shadow: 0 0 10px #00ffb0;">Black Hydra</span>
 
-Hello! I'm **Amir**, also known as **Black Hydra**. Since childhood, I have been passionate about electronics, starting with electronic components when I was just 5 years old. For several years now, I've been professionally involved in this field, working on various projects like reverse engineering, designing industrial and electronic boards, and creating hacking and security gadgets.
+**Hello!** I'm <span style="color: #00ffb0;">**Amir**</span>, also known as <span style="color: #00ffb0;">**Black Hydra**</span>. 
 
-## Skills
-
-- **C**
-- **C++**
-- **MicroPython**
-- **Arduino**
-- **Ducky Script**
-- **Pine Script**
-- **Robotics**
-- **IT**
-- **IoT**
-- **AI**
-- **PCB Design**
-- **Security**
-- **Networking**
+Since childhood, I have been passionate about electronics, starting with electronic components when I was just 5 years old. For several years now, I've been professionally involved in this field, working on various projects like **reverse engineering**, designing **industrial and electronic boards**, and creating **hacking and security gadgets**.
 
 ---
 
-<style>
-  h1, h2 {
-    color: #00ffb0;
-    font-family: 'Rajdhani', sans-serif;
-    text-shadow: 0 0 10px #00ffb0;
-  }
+## <span style="color: #00ffb0;">Skills</span>
 
-  p {
-    font-family: 'JetBrains Mono', monospace;
-    background-color: rgba(255, 255, 255, 0.05);
-    padding: 10px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 255, 176, 0.2);
-  }
-</style>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">C</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">C++</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">MicroPython</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Arduino</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Ducky Script</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Pine Script</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Robotics</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">IT</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">IoT</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">AI</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">PCB Design</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Security</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 5px 10px; border-radius: 5px; font-weight: bold;">Networking</span>
+</div>
+
+---
+
+## <span style="color: #00ffb0;">Projects & Interests</span>
+
+I'm always learning and evolving, especially in the fields of **machine learning**, **IoT**, and **robotics**. Currently, I am studying courses like **CS50** to deepen my knowledge in **security** and **networking**. 
+
+I love taking on new **challenges** and working on **exciting projects**, aiming to inspire others through my work.
