@@ -9,19 +9,19 @@ Since childhood, I have been passionate about electronics, starting with electro
 ## <span style="color: #00ffb0;">Skills</span>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; animation: slide-in 5s ease-in-out infinite;">
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">C</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">C++</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">MicroPython</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Arduino</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Ducky Script</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Pine Script</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Robotics</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">IT</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">IoT</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">AI</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">PCB Design</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Security</span>
-    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Networking</span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">C \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">C++ \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">MicroPython \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Arduino \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Ducky Script \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Pine Script \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Robotics \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">IT \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">IoT \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">AI \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">PCB Design \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Security \ </span>
+    <span style="background-color: #00ffb0; color: #0f0f0f; padding: 10px 20px; border-radius: 5px; font-weight: bold;">Networking \ </span>
 </div>
 
 ---
